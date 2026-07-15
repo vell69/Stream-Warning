@@ -7,7 +7,7 @@ return DataServiceTyped({
 		currency = 1,
 		inventory = {
 			apples = 3,
-			oranges = 10,
+			oranges = 15,
 		},
 	},
 })
