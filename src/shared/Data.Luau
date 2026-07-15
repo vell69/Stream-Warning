@@ -9,8 +9,5 @@ return DataServiceTyped({
 			apples = 3,
 			oranges = 10,
 		},
-		settings = {
-			music = true,
-		},
 	},
 })
